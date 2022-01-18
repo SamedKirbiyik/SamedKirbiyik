@@ -1,11 +1,11 @@
 ## Hi there. I'm Samed...:wave:
-- :telescope: I’m working on frontend and mobile app development (JavaScript | React | Typescript)
+- :telescope: I’m working on frontend and mobile app development (JavaScript | React)
 - :seedling: I’m learning backend development (MongoDB | Django)
 ## :man::woman: Social
 [![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samed-kirbiyik-10096720a/)
-[![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:@gmail.com)
+[![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:samedkirbiyik@gmail.com)
 [![website](https://img.shields.io/badge/%20-medium-black?&style=for-the-badge&logoColor=white)](https://medium.com)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amustafaozkayam" alt="amustafaozkayam" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=amustafaozkayam" alt="amustafaozkayam" /> </p> -->
 ## :computer: Frontend
 <a href="#" target="_blank"> <img src="https://img.favpng.com/4/23/21/responsive-web-design-html-computer-icons-css3-world-wide-web-consortium-png-favpng-N5Cgzsntj8KuEqXAzrfGCnF2X.jpg" alt="html" height="60"/> </a>
 <a href="#" target="_blank"> <img src="https://www.sapnesakar.com/img/courses/CSS3.png" alt="css" height="60"/> </a>
